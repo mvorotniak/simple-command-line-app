@@ -1,0 +1,9 @@
+# IDE - IntelliJ
+/.idea/*
+# Keep the code styles.
+!/.idea/codeStyles
+/.idea/codeStyles/*
+!/.idea/codeStyles/codeStyleConfig.xml
+*.iws
+*.iml
+*.ipr
